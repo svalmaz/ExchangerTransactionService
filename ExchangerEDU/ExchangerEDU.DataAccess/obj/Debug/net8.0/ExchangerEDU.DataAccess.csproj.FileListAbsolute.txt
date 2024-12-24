@@ -1,0 +1,15 @@
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\bin\Debug\net8.0\ExchangerEDU.DataAccess.deps.json
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\bin\Debug\net8.0\ExchangerEDU.DataAccess.runtimeconfig.json
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\bin\Debug\net8.0\ExchangerEDU.DataAccess.dll
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\bin\Debug\net8.0\ExchangerEDU.DataAccess.pdb
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.csproj.AssemblyReference.cache
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.AssemblyInfoInputs.cache
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.AssemblyInfo.cs
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.sourcelink.json
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.dll
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\refint\ExchangerEDU.DataAccess.dll
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.pdb
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ExchangerEDU.DataAccess.genruntimeconfig.cache
+C:\Users\almaz\OneDrive\Рабочий стол\C# Fullstack\ExchangerEDU\ExchangerEDU.DataAccess\obj\Debug\net8.0\ref\ExchangerEDU.DataAccess.dll
